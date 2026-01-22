@@ -5,7 +5,7 @@
 ## Hallo, i'm Endayy
 
 <h3 align="center">🚀 Tech Stack</h3>
-<div align="center">
+<div>
   <img src="https://skillicons.dev/icons?i=laravel" height="60" alt="Laravel" title="Laravel" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=express" height="60" alt="Express.js" title="Express.js" />
