@@ -2,6 +2,7 @@
 
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDd0ZmpwYXQ1amg3ODRmdG91cDdqdXhjM2YyNHBpN21jN2dqamFiNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dg/0YqqS9Nize8tKxfSWV/giphy.gif"
      width="100%"
+     height="30%"
      alt="giyuu">
 
 <!--
