@@ -1,5 +1,9 @@
 ## Hello, I'm Rafly Ramandha Kusuma
 
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExamgwY2gzcXhqeGhuYzFqY3U3OHEzMDM2cW5wbmgzemtmemlvc3l4NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EemW34a2bygGquksbt/giphy.gif"
+     width="100%"
+     alt="giyuu">
+
 <!--
 **Dayrennn/Dayrennn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,5 +20,3 @@ Here are some ideas to get you started:
 -->
 
 🌱 I’m currently learning Golang
-
-![giyuu](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExamgwY2gzcXhqeGhuYzFqY3U3OHEzMDM2cW5wbmgzemtmemlvc3l4NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EemW34a2bygGquksbt/giphy.gif)
