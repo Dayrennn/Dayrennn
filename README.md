@@ -1,4 +1,4 @@
-## Hello, I'm Rafly Ramandha Kusuma
+## ![rafly](asset/github-header-banner.png)
 
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExamgwY2gzcXhqeGhuYzFqY3U3OHEzMDM2cW5wbmgzemtmemlvc3l4NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EemW34a2bygGquksbt/giphy.gif"
      width="100%"
