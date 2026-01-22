@@ -5,35 +5,30 @@
 ## Hallo, i'm Endayy
 
 <h3 align="center">🚀 Tech Stack</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=laravel" height="60" />
+  <img src="https://skillicons.dev/icons?i=express" height="60" />
+  <img src="https://skillicons.dev/icons?i=go" height="60" />
+  <img src="https://skillicons.dev/icons?i=php" height="60" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react" height="60" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="60" />
+  <img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="60" />
+  <img src="https://skillicons.dev/icons?i=ts" height="60" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js" height="60" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="60" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="60" />
+  <img src="https://skillicons.dev/icons?i=go" height="60" />
+</p>
+
 <div>
-  <img src="https://skillicons.dev/icons?i=laravel" height="60" alt="Laravel" title="Laravel" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="60" alt="Express.js" title="Express.js" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=go" height="60" alt="Golang" title="Golang" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=php" height="60" alt="PHP" title="PHP" />
-</div>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=react" height="60" alt="React.js" title="React.js" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="Next.js" title="Next.js" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="60" alt="Bootstrap" title="Bootstrap" />
-</div>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="TypeScript" title="TypeScript" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="60" alt="JavaScript" title="JavaScript" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=php" height="60" alt="PHP" title="PHP" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=go" height="60" alt="Golang" title="Golang" />
-</div>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="PostgreSQL" title="PostgreSQL" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="MySQL" title="MySQL" />
+  <img src="https://skillicons.dev/icons?
 </div>
 
 <div align="center">
