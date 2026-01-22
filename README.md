@@ -1,5 +1,5 @@
 <div>
-  <img src="asset/ssstik.io_@tipedxts_1769079605186.gif" width="100%" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWNsN2NlamFkeWdmZ2JxZW1tZDh3c2Z6dHpldmZhNWI5empqczY3OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IeSljtxBNgQfgbMwd/giphy.gif" width="100%" />
 </div>
 
 ## Hallo, i'm Endayy 👋
