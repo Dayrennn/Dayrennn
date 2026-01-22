@@ -1,5 +1,5 @@
 <div>
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGZiYXR0dGsxd3V3ZDc2dnF6azc0d2xna2N0OXh3OGN0Znhkc3MybiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Z9JtPniLKdNzPjsEn6/giphy.gif" width="100%" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzNiZ2hoZTE4eDNqa2YybGRyeXhvcXYxYnk5Mm8zcHY2YnJxNHJ2OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/63IqdUVg9HjDMG9NKF/giphy.gif" width="100%" />
 </div>
 
 ## Hallo, i'm Endayy 👋
