@@ -2,11 +2,13 @@
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExamgwY2gzcXhqeGhuYzFqY3U3OHEzMDM2cW5wbmgzemtmemlvc3l4NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EemW34a2bygGquksbt/giphy.gif" width="100%" alt="Giyuu Tomioka" />
 </div>
 
-## Hallo, i'm Endayy
+Hallo, i'm Endayy
 
-## 🚀 Tech Stack
-
-<img src="https://skillicons.dev/icons?i=laravel,express,go,php,react,nextjs,bootstrap,ts,js,postgres,mysql&perline=11" width="100%" />
+<div align="center">Tech Stack
+    <div>
+    <img src="https://skillicons.dev/icons?i=laravel,express,go,php,react,nextjs,bootstrap,ts,js,postgres,mysql&perline=11" width="100%" />
+    </div>
+</div>
 
 <div>
   <img src="https://skillicons.dev/icons?"
