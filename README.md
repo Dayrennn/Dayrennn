@@ -2,9 +2,10 @@
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExamgwY2gzcXhqeGhuYzFqY3U3OHEzMDM2cW5wbmgzemtmemlvc3l4NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EemW34a2bygGquksbt/giphy.gif" width="100%" />
 </div>
 
-### Hallo, i'm Endayy
+Hallo, i'm Endayy
+Backend & Web Developer with a strong interest in Golang, REST API development, and modern web technologies. Passionate about building scalable, clean, and efficient systems.
 
-<h3>🚀 Tech Stack</h3>
+## 🚀 Tech Stack
 
 <img src="https://skillicons.dev/icons?i=laravel,express,go,php,react,nextjs,bootstrap,ts,js,postgres,mysql&perline=11" width="100%" />
 
@@ -12,16 +13,6 @@
   <img src="https://streak-stats.demolab.com?user=dayrennn&theme=dracula" height="150" />
   <img src="https://github-profile-trophy.vercel.app?username=dayrennn&theme=dracula&column=-1&row=1" height="150" />
 </div>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" 
-          srcset="https://raw.githubusercontent.com/dayrennn/dayrennn/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" 
-          srcset="https://raw.githubusercontent.com/dayrennn/dayrennn/output/github-contribution-grid-snake.svg">
-  <img alt="Snake Contribution Animation" 
-       src="https://raw.githubusercontent.com/dayrennn/dayrennn/output/github-contribution-grid-snake.svg" 
-       width="100%">
-</picture>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/rafly-ramandha-kusuma-214a36353">
