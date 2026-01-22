@@ -2,12 +2,9 @@
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExamgwY2gzcXhqeGhuYzFqY3U3OHEzMDM2cW5wbmgzemtmemlvc3l4NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EemW34a2bygGquksbt/giphy.gif" width="100%" alt="Giyuu Tomioka" />
 </div>
 
-# Hello, i'm Endayy
+## Hallo, i'm Endayy
 
-## 🚀 Tech Stack
-
-### Backend Development
-
+<h3 align="center">🚀 Tech Stack</h3>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=laravel" height="60" alt="Laravel" title="Laravel" />
   <img width="12" />
@@ -17,9 +14,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=php" height="60" alt="PHP" title="PHP" />
 </div>
-
-### Frontend Development
-
 <div align="center">
   <img src="https://skillicons.dev/icons?i=react" height="60" alt="React.js" title="React.js" />
   <img width="12" />
@@ -27,9 +21,6 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="60" alt="Bootstrap" title="Bootstrap" />
 </div>
-
-### Programming Languages
-
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts" height="60" alt="TypeScript" title="TypeScript" />
   <img width="12" />
@@ -39,16 +30,11 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=go" height="60" alt="Golang" title="Golang" />
 </div>
-
-### Databases
-
 <div align="center">
   <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="PostgreSQL" title="PostgreSQL" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="MySQL" title="MySQL" />
 </div>
-
-## 📊 GitHub Stats
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=dayrennn&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="Streak Stats" />
@@ -60,8 +46,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
   <img alt="GitHub Contribution Graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg" width="100%">
 </picture>
-
-## 📫 Connect With Me
 
 <div align="center">
   <a href="https://www.linkedin.com/in/rafly-ramandha-kusuma-214a36353" target="_blank">
