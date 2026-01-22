@@ -4,20 +4,21 @@
 
 ## Hallo, i'm Endayy
 
-<h3 align="center">🚀 Tech Stack</h3>
+<h3>🚀 Tech Stack</h3>
 
-<img src="https://skillicons.dev/icons?i=laravel" height="60" />
-  <img src="https://skillicons.dev/icons?i=express" height="60" />
-  <img src="https://skillicons.dev/icons?i=go" height="60" />
-  <img src="https://skillicons.dev/icons?i=php" height="60" />
-  <img src="https://skillicons.dev/icons?i=react" height="60" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" />
-  <img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="60" />
-  <img src="https://skillicons.dev/icons?i=ts" height="60" />
-    <img src="https://skillicons.dev/icons?i=js" height="60" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="60" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="60" />
-  <img src="https://skillicons.dev/icons?i=go" height="60" />
+<p>
+  <img src="https://skillicons.dev/icons?i=laravel" height="60" alt="Laravel" />
+  <img src="https://skillicons.dev/icons?i=express" height="60" alt="Express" />
+  <img src="https://skillicons.dev/icons?i=go" height="60" alt="Golang" />
+  <img src="https://skillicons.dev/icons?i=php" height="60" alt="PHP" />
+  <img src="https://skillicons.dev/icons?i=react" height="60" alt="React" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="Next.js" />
+  <img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="60" alt="Bootstrap" />
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="TypeScript" />
+  <img src="https://skillicons.dev/icons?i=js" height="60" alt="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="PostgreSQL" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="MySQL" />
+</p>
 
 <div>
   <img src="https://skillicons.dev/icons?"
