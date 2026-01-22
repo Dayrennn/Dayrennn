@@ -1,6 +1,6 @@
 <div>
 
-## Hallo, i'm Endayy 👋
+## Hello, i'm Endayy 👋
 
 Backend & Web Developer with a strong interest in **Golang**, **REST API development**, and modern web technologies.  
 Passionate about building scalable, clean, and efficient systems.
