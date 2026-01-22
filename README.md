@@ -7,19 +7,13 @@
 Backend & Web Developer with a strong interest in **Golang**, **REST API development**, and modern web technologies.  
 Passionate about building scalable, clean, and efficient systems.
 
----
-
 ## 🚀 Tech Stack
 
 <img src="https://skillicons.dev/icons?i=laravel,express,go,php,react,nextjs,bootstrap,ts,js,postgres,mysql&perline=11" width="100%" />
 
----
-
 ## 🖥️ OS / Tools I Use
 
 <img src="https://skillicons.dev/icons?i=ubuntu,vscode,postman,git,github&perline=8" />
-
----
 
 ## 🌐 Connect With Me
 
@@ -35,3 +29,9 @@ Passionate about building scalable, clean, and efficient systems.
 <a href="mailto:raflyramandha789@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white&style=for-the-badge" />
 </a>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+</picture>
