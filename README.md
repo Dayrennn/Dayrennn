@@ -17,24 +17,7 @@ Passionate about building scalable, clean, and efficient systems.
 
 ## 🖥️ OS / Tools I Use
 
-<img src="https://skillicons.dev/icons?i=ubuntu,vscode,postman,pgadmin,git,github&perline=8" />
-
----
-
-## 📊 GitHub Stats
-
-<img src="https://streak-stats.demolab.com?user=dayrennn&theme=dracula&hide_border=false" height="160" />
-<img src="https://github-profile-trophy.vercel.app/?username=dayrennn&theme=dracula&row=1&column=6" height="160" />
-
----
-
-## 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dayrennn/dayrennn/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dayrennn/dayrennn/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/dayrennn/dayrennn/output/github-contribution-grid-snake.svg" width="100%" />
-</picture>
+<img src="https://skillicons.dev/icons?i=ubuntu,vscode,postman,git,github&perline=8" />
 
 ---
 
