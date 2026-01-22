@@ -6,8 +6,7 @@
 
 <h3 align="center">🚀 Tech Stack</h3>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=laravel" height="60" />
+<img src="https://skillicons.dev/icons?i=laravel" height="60" />
   <img src="https://skillicons.dev/icons?i=express" height="60" />
   <img src="https://skillicons.dev/icons?i=go" height="60" />
   <img src="https://skillicons.dev/icons?i=php" height="60" />
@@ -19,7 +18,6 @@
   <img src="https://skillicons.dev/icons?i=postgres" height="60" />
   <img src="https://skillicons.dev/icons?i=mysql" height="60" />
   <img src="https://skillicons.dev/icons?i=go" height="60" />
-</p>
 
 <div>
   <img src="https://skillicons.dev/icons?"
