@@ -11,24 +11,18 @@
   <img src="https://skillicons.dev/icons?i=express" height="60" />
   <img src="https://skillicons.dev/icons?i=go" height="60" />
   <img src="https://skillicons.dev/icons?i=php" height="60" />
-</p>
-
-<p align="center">
   <img src="https://skillicons.dev/icons?i=react" height="60" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="60" />
   <img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="60" />
   <img src="https://skillicons.dev/icons?i=ts" height="60" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js" height="60" />
+    <img src="https://skillicons.dev/icons?i=js" height="60" />
   <img src="https://skillicons.dev/icons?i=postgres" height="60" />
   <img src="https://skillicons.dev/icons?i=mysql" height="60" />
   <img src="https://skillicons.dev/icons?i=go" height="60" />
 </p>
 
 <div>
-  <img src="https://skillicons.dev/icons?
+  <img src="https://skillicons.dev/icons?"
 </div>
 
 <div align="center">
