@@ -1,56 +1,81 @@
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExamgwY2gzcXhqeGhuYzFqY3U3OHEzMDM2cW5wbmgzemtmemlvc3l4NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EemW34a2bygGquksbt/giphy.gif"
-     width="100%"
-     alt="giyuu">
-
-<h1 align="center">Hey 👋What's Up?</h1>
-
-###
+# Rafly Ramandha Kusuma
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExamgwY2gzcXhqeGhuYzFqY3U3OHEzMDM2cW5wbmgzemtmemlvc3l4NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EemW34a2bygGquksbt/giphy.gif" width="100%" alt="Giyuu Tomioka" />
 </div>
 
-###
+<h1 align="center">Hey 👋 What's Up?</h1>
+
+## 🚀 Tech Stack
+
+### Backend Development
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
+  <img src="https://skillicons.dev/icons?i=laravel" height="60" alt="Laravel" title="Laravel" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=express" height="60" alt="Express.js" title="Express.js" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=go" height="60" alt="Golang" title="Golang" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=php" height="60" alt="PHP" title="PHP" />
 </div>
 
-###
+### Frontend Development
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://skillicons.dev/icons?i=react" height="60" alt="React.js" title="React.js" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="Next.js" title="Next.js" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="60" alt="Bootstrap" title="Bootstrap" />
 </div>
 
-###
+### Programming Languages
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="TypeScript" title="TypeScript" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="60" alt="JavaScript" title="JavaScript" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=php" height="60" alt="PHP" title="PHP" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=go" height="60" alt="Golang" title="Golang" />
+</div>
+
+### Databases
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="PostgreSQL" title="PostgreSQL" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="MySQL" title="MySQL" />
+</div>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=dayrennn&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="Streak Stats" />
+  <img src="https://github-profile-trophy.vercel.app?username=dayrennn&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="GitHub Trophies" />
+</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <img alt="GitHub Contribution Graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg" width="100%">
 </picture>
 
-###
+## 📫 Connect With Me
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/rafly-ramandha-kusuma-214a36353" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/dayrennnnnn?igsh=NmVwcTN0M3djemZo" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Instagram" />
+  </a>
+  <a href="https://www.tiktok.com/@dayrennnn?is_from_webapp=1&sender_device=pc" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=TikTok&logo=tiktok&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="TikTok" />
+  </a>
+  <a href="mailto:raflyramandha789@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=EA4335&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Gmail" />
+  </a>
+</div>
