@@ -1,6 +1,8 @@
 ## Hello, I'm Rafly Ramandha Kusuma
 
-![giyuu](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDd0ZmpwYXQ1amg3ODRmdG91cDdqdXhjM2YyNHBpN21jN2dqamFiNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dg/0YqqS9Nize8tKxfSWV/giphy.gif)
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDd0ZmpwYXQ1amg3ODRmdG91cDdqdXhjM2YyNHBpN21jN2dqamFiNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dg/0YqqS9Nize8tKxfSWV/giphy.gif"
+     width="100%"
+     alt="giyuu">
 
 <!--
 **Dayrennn/Dayrennn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
