@@ -1,6 +1,4 @@
 <div>
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bDZ4eWF5djJuc3owajBmcnhtMWg3bmZ2cTE5czdsb29jemdqY3M0ZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/4rZA5D22301iMgrUNd/giphy.gif" width="100%" />
-</div>
 
 ## Hallo, i'm Endayy 👋
 
