@@ -1,5 +1,5 @@
 <div>
-  <img src="asset/_ (1).gif" width="100%" />
+  <img src="asset/ssstik.io_@tipedxts_1769079605186.gif" width="100%" />
 </div>
 
 ## Hallo, i'm Endayy 👋
