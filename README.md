@@ -1,5 +1,5 @@
 <div>
-  <img src="asset/_.gif" width="100%" />
+  <img src="asset/_ (1).gif" width="100%" />
 </div>
 
 ## Hallo, i'm Endayy 👋
@@ -36,12 +36,6 @@ Passionate about building scalable, clean, and efficient systems.
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
 </div>
-
-###
-
-<h3 align="center">OS / Tools i Use</h3>
-
-###
 
 <h3 align="left">OS / Tools i Use</h3>
 
