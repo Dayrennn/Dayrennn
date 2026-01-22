@@ -1,5 +1,5 @@
 <div>
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExODBmeWttMXhwemdicGdyZG5yd3BpZm9nZTZlemY3YmtramIzcXVuZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NHLHiHBPrSO0HIiieS/giphy.gif" width="100%" />
+  <img src="asset/_.gif" width="100%" />
 </div>
 
 ## Hallo, i'm Endayy 👋
