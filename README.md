@@ -2,8 +2,7 @@
 
 ## Hello, i'm Endayy 👋
 
-Backend & Web Developer with a strong interest in **Golang**, **REST API development**, and modern web technologies.  
-Passionate about building scalable, clean, and efficient systems.
+Fullstack Developer specializing in JavaScript, Express.js, Next.js, and REST API development. Passionate about developing scalable web applications, optimizing performance, and writing clean, maintainable code.
 
 <h3 align="left">Tech Stack</h3>
 
